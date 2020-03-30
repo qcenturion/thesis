@@ -1,2 +1,1 @@
-# thesis
-Thesis_NIU_MS
+Thesis work, including finished work and accompanying R code.
